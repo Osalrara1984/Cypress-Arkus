@@ -1,5 +1,5 @@
 # Cypress-Arkus
-Verify that you have installed Visual Studio Code
+<br>Verify that you have installed Visual Studio Code </br>
 Verify that you have installed Node js and NPM.
   If you request to install please refer to bellow link:
   https://phoenixnap.com/kb/install-node-js-npm-on-windows
